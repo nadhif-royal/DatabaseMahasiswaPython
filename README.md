@@ -18,8 +18,10 @@ Sistem ini memungkinkan pengguna untuk **menyimpan, menampilkan, memperbarui, da
 git clone https://github.com/nadhif-royal/DatabaseMahasiswaPython.git
 cd DatabaseMahasiswaPython
 
+
 ### **2. Jalankan Program**
 Pastikan sudah menginstal Python 3 lalu jalankan:
+```sh
 python Database_Mahasiswa.py
 
 ## 📂 Struktur Proyek
