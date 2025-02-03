@@ -18,7 +18,6 @@ Sistem ini memungkinkan pengguna untuk **menyimpan, menampilkan, memperbarui, da
 🛠️ Cara Menggunakan
 
 1️⃣ Clone Repository
-```sh
 git clone https://github.com/nadhif-royal/DatabaseMahasiswaPython.git
 cd DatabaseMahasiswaPython
 
