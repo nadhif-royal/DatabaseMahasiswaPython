@@ -52,3 +52,4 @@ Terdapat menu utama yaitu:
 - Hapus Mahasiswa
 - Update Mahasiswa
 
+User dapat mengubah kode sesuai kebutuhan dengan pilihan menu utama diatas. Hasil dari perubahan akan langsung disimpan dalam file nama.txt dan nim.txt.
