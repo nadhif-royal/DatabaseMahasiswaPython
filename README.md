@@ -29,6 +29,7 @@ Pastikan sudah menginstal Python 3 lalu jalankan:
 python Database_Mahasiswa.py
 
 ### 📂 Struktur Proyek
+```sh
 /DatabaseMahasiswaPython
 │── Day19-20_Project3/
 │   ├── Database_Mahasiswa.py
