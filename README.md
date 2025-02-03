@@ -15,19 +15,18 @@ Sistem ini memungkinkan pengguna untuk **menyimpan, menampilkan, memperbarui, da
 
 ---
 
-🛠️ Cara Menggunakan
+## 🛠️ Cara Menggunakan
 
-1️⃣ Clone Repository
+### 1️⃣ Clone Repository
 git clone https://github.com/nadhif-royal/DatabaseMahasiswaPython.git
 cd DatabaseMahasiswaPython
 
 
-2️⃣ Jalankan Program
-```sh
+### 2️⃣ Jalankan Program
 Pastikan sudah menginstal Python 3 lalu jalankan:
 python Database_Mahasiswa.py
 
-📂 Struktur Proyek
+### 📂 Struktur Proyek
 /DatabaseMahasiswaPython
 │── Day19-20_Project3/
 │   ├── Database_Mahasiswa.py
