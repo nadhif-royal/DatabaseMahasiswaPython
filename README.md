@@ -18,14 +18,16 @@ Sistem ini memungkinkan pengguna untuk **menyimpan, menampilkan, memperbarui, da
 ## 🛠️ Cara Menggunakan
 
 ### 1️⃣ Clone Repository
+```sh
 git clone https://github.com/nadhif-royal/DatabaseMahasiswaPython.git
-
 cd DatabaseMahasiswaPython
+```
 
 ### 2️⃣ Jalankan Program
 Pastikan sudah menginstal Python 3 lalu jalankan:
-
+```sh
 python Database_Mahasiswa.py
+```
 
 ### 📂 Struktur Proyek
 ```sh
@@ -37,3 +39,16 @@ python Database_Mahasiswa.py
 │── README.md
 │── LICENSE
 ```
+
+## 🏁 Alur Program Utama (Database_Mahasiswa.py)
+Program akan memeriksa apakah file nama.txt dan nim.txt ada.
+- Jika tidak, akan dibuat otomatis.
+kedua file ini (nama.txt dan nim.txt) berfungsi untuk menyimpan data mahasiswa berupa nama dan nim.
+Keduanya disusun sejajar, sehingga baris ke-1 dalam nama.txt cocok dengan baris ke-1 dalam nim.txt.
+  
+Terdapat menu utama yaitu:
+- Tambah Mahasiswa
+- Tampilkan Data Mahasiswa
+- Hapus Mahasiswa
+- Update Mahasiswa
+
