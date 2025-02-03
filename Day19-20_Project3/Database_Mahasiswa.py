@@ -80,7 +80,6 @@ class databaseMahasiswa:
                 return
         print("Student with the specified NIM not found.")
 
-# CRUD Mahasiswa
 
 # Eksekusi Program
 db = databaseMahasiswa(r'Day19-20_Project3\nama.txt', r'Day19-20_Project3\nim.txt')
