@@ -13,7 +13,7 @@ Sistem ini memungkinkan pengguna untuk **menyimpan, menampilkan, memperbarui, da
 - **Memperbarui data mahasiswa (Nama/NIM)**
 
 ## 🛠️ Cara Menggunakan
-### **1. Clone Repository**
+1. Clone Repository
 ```sh
 git clone https://github.com/nadhif-royal/DatabaseMahasiswaPython.git
 cd DatabaseMahasiswaPython
