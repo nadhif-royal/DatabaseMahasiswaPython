@@ -28,6 +28,8 @@ Pastikan sudah menginstal Python 3 lalu jalankan:
 ```sh
 python Database_Mahasiswa.py
 ```
+### 🔄 Hapus file nama.txt dan nim.txt
+Kedua file ini dapat anda hapus untuk merestart ulang program dan akan di generate kembali secara otomatis oleh program saat user menambahkan data mahasiswa baru.
 
 ### 📂 Struktur Proyek
 ```sh
